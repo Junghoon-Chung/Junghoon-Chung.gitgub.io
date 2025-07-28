@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Junghoon-Chung.github.io/Junghoon-Chung.github.io/sitemap.xml
+Sitemap: https://Junghoon-Chung.github.io/sitemap.xml
